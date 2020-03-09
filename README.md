@@ -1,2 +1,2 @@
-# Speaker-Recognition-System
-This is a voice based bio metric system to monitor the attendance of students.
+# Partner Recommendation System
+This is a system for dating application that suggests the most appropriate person based on your prefernces.
